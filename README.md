@@ -41,3 +41,7 @@ python3 acceptance_test.py --selftest
 ```
 
 The profiler reads run logs with span lines and the JSON that `cargo furiosa-opt compile --dump-schedule` writes; the docstring at the top of each file gives its usage.
+
+## License
+
+Apache License 2.0. See `LICENSE`.
